@@ -7,7 +7,7 @@ Backend Developer | DeFi Native | DSA Enthusiast
 - 🤖 Applying LLMs to solve real-world problems and enhance backend intelligence
 - 🌍 Active in the Web3 space — from NFTs to DeFi  
 - 🧑‍💼 Former ReFi Degen @ Open Forest Protocol — handled community growth, moderation, and engagement across Telegram, Discord, and Twitter  
-- 📍 Based in Valsad, India
+- 📍 Based in India
 
 ---
 
