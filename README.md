@@ -8,6 +8,7 @@ Backend Developer | DeFi Native | DSA Enthusiast
 - 🌍 Active in the Web3 space — from NFTs to DeFi  
 - 📍 Based in India
 
+📫 Contact: shashankvaranasi@outlook.com
 ---
 
 ### 🧰 Tech Stack
